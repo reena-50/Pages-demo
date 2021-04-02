@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-    {process.env.REACT_APP_NAME}
+        Lean app
         </a>
       </header>
     </div>
